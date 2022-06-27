@@ -1,0 +1,119 @@
+.container__footer {
+    display: grid;
+    grid-template-columns: 1fr;
+    text-align: center;
+    padding: 3em;    
+    margin: 2em;
+
+    background: rgba(196, 25, 25, 0.03)
+}
+
+.containerfirst__text-footer {
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--color-text-red);
+    padding: 1em 0 2em 0;
+}
+
+.containersecond__text-footer {
+    font-size: 36px;
+    font-weight: 500;
+    color: var(--color-title);
+    padding: 0 0 1em 0;
+}
+
+
+.img__footer {
+    width: 56px;
+    height: 56px;
+}
+.container__img-footer {
+    padding: 0 0 1em 0;
+}
+
+.container__nome-footer {
+    font-size: 16px;
+    font-weight: 500;
+    color: var(--color-title);
+    padding: 0 0 1em 0;
+}
+
+.container__section-footer{
+    background: #F9FAFB;
+}
+
+.container-prof-footer{
+    font-size: 14px;
+    font-weight: 400;
+    color: var(--color-text);
+}
+
+
+.container__box-footer2{
+    display: grid;
+    grid-template-columns: 1fr;
+    text-align: center;
+   
+
+    
+}
+
+.box__oportunidade {
+    font-size: 36px;
+    font-weight: 600;
+    color: var(--color-title);
+    padding-bottom: 1em;
+}
+
+.box__vagasabertas {
+    font-size: 20px;
+    font-weight: 400;
+    padding: 1em;
+
+    color: var(--color-text);
+    
+}
+
+.email__border {
+    
+}
+
+#emailAdress {
+    width: 368px;
+    height: 35px;
+    border-color: #D0D5DD;
+    border-radius: 7px;
+    font-family: 'Inter', sans-serif;
+    color: var(--color-text);
+}
+    
+   
+
+.container__email { 
+    display: flex;
+    justify-content: center;
+    padding-top: 3em;
+    
+
+}
+.botao__cadastrar {
+    background-color: var(--color-text-red);
+    color: #FFFFFF;
+    border: solid var(--color-text-red);
+    border-radius: 7px;
+    padding: 8px 10px;
+    margin-left: 1em;
+}
+
+.copyright {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.copyright__text {
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--color-text);
+    padding: 2em 2em 6em 2em;
+}

@@ -1,0 +1,118 @@
+.container__main {
+
+}
+
+.container__text-meeting {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 10em;
+
+}
+
+.container__talentos-remotos {
+    padding-top: 1em ;
+
+}
+
+.title__vagas {
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--color-text-red);
+
+}
+
+.text__talentos {
+    font-size: 36px;
+    font-weight: 600;
+    color: var(--color-title);
+
+}
+.description__vagas-text {
+    font-size: 20px;
+    font-weight: 400;
+    color: var(--color-text);
+    padding-bottom: 2.5em;
+}
+
+.imagemeeting {
+    width: 1216px;
+    height: 400px;
+    max-width: 1216px;
+    align-items: center;
+    padding: 2em 5em 4em 5em;    
+}
+.containervagas__principal {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    
+}
+
+
+.container__caixa-principal {  
+    border: solid 1px var(--color-border);
+    border-radius: 20px;
+    padding: 1em 0;  
+    width: 600px;
+    height: 70px;
+
+   
+ 
+}
+
+.title__vagas-name {   
+    width: 600px;
+    font-size: 20px;
+    font-weight: 500;
+    color: var(--color-title);
+    padding-bottom: 1em;
+}
+.vagas__text-caixa {
+    margin: 2em 1em;
+
+}
+.text__designer{
+    margin-left: 1em;
+    font-size: 18px;
+    font-weight: 500;
+    color: var(--color-title);
+    
+    
+    
+}
+ 
+.text__designer2{
+    margin-left: 1em;
+    font-size: 16px;
+    font-weight: 500;
+    color: var(--color-text);       
+}  
+
+.textcaixadesigner2 {
+    display: flex;
+    margin-top: 2em;
+}
+    
+
+
+
+
+.vagas__text {
+    display: flex;
+    justify-content: space-around;
+    
+    max-width: 304px;    
+   
+   
+}
+
+.caixadesignprincipal {
+    padding-top: 2em;
+}
+
+.vagas__caixas-prof {
+    padding: 2em 0;
+
+}
